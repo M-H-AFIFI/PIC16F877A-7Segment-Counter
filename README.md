@@ -1,6 +1,5 @@
 # PIC16F877A-7Segment-Counter
 Dual 7-segment counter using PIC16F877A
-Author: M. H. Afifi
 
 This project is a two-digit 7-segment counter based on the PIC16F877A microcontroller, written in MikroC PRO for PIC. The goal was to create a simple but complete example that shows how to use timers, interrupts, and multiplexed displays in an embedded system.
 The counter can work in two modes:
@@ -39,3 +38,9 @@ This project is a good reference for learning how to:
 3-Drive multiplexed 7-segment displays.
 
 4-Handle buttons cleanly and switch between modes in embedded C.
+
+Author: M.H. Afifi
+
+Compiler: mikroC PRO for PIC
+
+MCU: PIC16F877A
