@@ -5,7 +5,6 @@ This project is a two-digit 7-segment counter based on the PIC16F877A microcontr
 The counter can work in two modes:
 
 Manual Mode – The user controls the count using push buttons.
-
 Auto Mode – The counter automatically increases at a steady rate using Timer0 interrupts.
 
 Three push buttons are connected to PORTD:
